@@ -46,7 +46,7 @@ with st.sidebar:
     st.markdown(f"**Actual Label:** {actual_label}")
     st.divider()
     openai_key = st.text_input("OpenAI API Key (optional)", type="password",
-                           help="For AI natural language explanation")
+                               help="For AI natural language explanation")
     if not openai_key:
         openai_key = st.secrets.get("OPENAI_API_KEY", "")
 
