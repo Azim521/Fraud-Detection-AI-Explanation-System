@@ -47,6 +47,9 @@ Built on the real-world [Kaggle Credit Card Fraud dataset](https://www.kaggle.co
 - Serves everything through an interactive **Streamlit dashboard**
 
 ---
+![Demo](https://github.com/Azim521/Fraud-Detection-AI-Explanation-System/raw/main/demo.gif)
+
+---
 
 ## 📊 Model Performance
 
